@@ -71,10 +71,9 @@
 |---|---|---|
 | 🤖 **Ask chAMP!** *(private)* | RAG chatbot with multi-source document ingestion, persistent vector caching, and conversational memory — built on the Claude API | Python · LangChain · RAG · Claude API |
 | 🐛 [**Defects4REST**](https://mmotwani.com/publications/publication_sources/Mehta26icse.pdf) | First public benchmark of real-world REST API defects — published at **ICSE 2026** | Python · REST APIs · Research |
-| 🧠 [**LATS**](https://github.com/katkhedepushpak/LATS) | Language Agent Tree Search — LLM-based agent reasoning with tree-structured planning | Python · LLMs · Agents |
-| 📈 [**silicon-analysis-lstm**](https://github.com/katkhedepushpak/silicon-analysis-lstm) | LSTM-based deep learning model for semiconductor stock price forecasting | Python · TensorFlow · LSTM |
+| 🧠 [**LATS**](https://github.com/katkhedepushpak/LATS) | Live Assistance Tracking System — Cloud based emergency help system | Python · Javascript · IoT |
+| 📈 [**silicon-analysis-lstm**](https://github.com/katkhedepushpak/silicon-analysis-lstm) | LSTM-based deep learning model for DSi Level levbel forecasting | Python · TensorFlow · LSTM |
 | 📝 [**Jot-it-Down**](https://github.com/katkhedepushpak/Jot-it-Down) | Full-stack notes app with auth, tagging, and real-time editing | React · Node.js · MongoDB |
-| 🔐 [**CrackStationAsService**](https://github.com/katkhedepushpak/CrackStationAsService) | Microservice exposing password hash cracking as a REST API | Java · Spring Boot · Docker |
 
 ---
 
