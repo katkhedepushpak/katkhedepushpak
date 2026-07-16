@@ -14,7 +14,7 @@
 
 ---
 
-> I build things that scale — from enterprise microservices serving 500K+ users at IBM to research benchmarks shaping the future of REST API testing. Currently a Software Engineer at Oregon State University, where I also publish at top-tier venues like **ICSE 2026**. I ship clean backend systems, cloud-native platforms, and AI-powered tooling.
+> I build things that scale — from enterprise microservices serving half a million users at IBM to research benchmarks shaping the future of REST API testing. Currently a Software Engineer at Oregon State University, where I also published at top-tier venues like **ICSE 2026**. I ship clean backend systems, cloud-native platforms, and AI-powered tooling.
 
 ---
 
