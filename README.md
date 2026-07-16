@@ -81,7 +81,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **Ask chAMP!** *(private)* | RAG chatbot with multi-source document ingestion, persistent vector caching, and conversational memory — built on the Claude API | Python · LangChain · RAG · Claude API |
-| 🐛 [**Defects4REST**](https://github.com/ANSWER-OSU/Defects4REST-ReplicationPackage) | First public benchmark of real-world REST API defects — published at **ICSE 2026** | Python · REST APIs · Research |
+| 🐛 [**Defects4REST**](https://mmotwani.com/publications/publication_sources/Mehta26icse.pdf) | First public benchmark of real-world REST API defects — published at **ICSE 2026** | Python · REST APIs · Research |
 | 🧠 [**LATS**](https://github.com/katkhedepushpak/LATS) | Language Agent Tree Search — LLM-based agent reasoning with tree-structured planning | Python · LLMs · Agents |
 | 📈 [**silicon-analysis-lstm**](https://github.com/katkhedepushpak/silicon-analysis-lstm) | LSTM-based deep learning model for semiconductor stock price forecasting | Python · TensorFlow · LSTM |
 | 📝 [**Jot-it-Down**](https://github.com/katkhedepushpak/Jot-it-Down) | Full-stack notes app with auth, tagging, and real-time editing | React · Node.js · MongoDB |
@@ -101,7 +101,7 @@
 
 The first curated, publicly available benchmark of REST API defects collected from real-world open-source projects — enabling reproducible research in API testing, fault localization, and automated repair.
 
-[→ View Repository](https://github.com/ANSWER-OSU/Defects4REST-ReplicationPackage)
+[→ Read Paper](https://mmotwani.com/publications/publication_sources/Mehta26icse.pdf)
 
 </td>
 </tr>
